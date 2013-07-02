@@ -1,1 +1,3 @@
 Take out some aggression with 'git smash'.
+
+Installation: Add git-smash to your ~/bin directory and chmod +x.
